@@ -24,11 +24,6 @@
 <br />
 <br />
 
-### Mail
-pkjin.eng@gmail.com
-<br />
-<br />
-
 ### Blog
 https://inthedev.tistory.com
 
