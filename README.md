@@ -15,9 +15,6 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjindev&hide_progress=false&layout=compact)
-<br />
-<br />
 
 ### Coworking Stacks
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
