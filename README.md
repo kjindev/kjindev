@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
 <br />
 <br />
-
+<br />
 
 ### Coworking Stacks
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -22,6 +22,13 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<br />
+<br />
+<br />
+
+### Blog
+https://inthedev.tistory.com
+<br />
 <br />
 <br />
 
