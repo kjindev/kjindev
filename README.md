@@ -32,4 +32,6 @@ https://inthedev.tistory.com
 <br />
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjindev&layout=compact)
+
 </div>
