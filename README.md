@@ -26,6 +26,12 @@
 <br />
 <br />
 
+### Library
+https://www.npmjs.com/package/in-the-chart
+<br />
+<br />
+<br />
+
 ### Blog
 https://inthedev.tistory.com
 <br />
