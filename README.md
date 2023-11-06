@@ -1,5 +1,7 @@
 <div align="center">
+  
 
+  
 ### Frontend Stacks
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -14,6 +16,9 @@
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
 <br />
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjindev&layout=compact)
+<br />
 <br />
 
 ### Coworking Stacks
@@ -24,20 +29,11 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <br />
 <br />
-<br />
-
-### Library
-https://www.npmjs.com/package/in-the-chart
-<br />
-<br />
-<br />
+ 
 
 ### Blog
 https://inthedev.tistory.com
 <br />
 <br />
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjindev&layout=compact)
 
 </div>
