@@ -3,17 +3,19 @@
 
   
 ### Frontend Stacks
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square"/>
 <br />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=282C34"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recoil-3578E4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zustand-C8CCC9?style=flat-square"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square"/>
 <br />
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Emotion-D36AC2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square"/>
 <br />
 <br />
 
