@@ -17,6 +17,13 @@
 <img src="https://img.shields.io/badge/Emotion-D36AC2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square"/>
 <br />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square"/>
+<img src="https://img.shields.io/badge/React Testing Library-FD4545?style=flat-square"/>
+<br />
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square"/>
+<br />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square"/>
+<br />
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjindev&layout=compact)
