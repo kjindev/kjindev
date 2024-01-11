@@ -1,4 +1,3 @@
-<br />
 
 ## Frontend Stacks
 
@@ -23,9 +22,8 @@
 
 <br />
 
-## Activities: Open Source
+## Activities: Open Source 
 
 - [react-moving-scroll](https://github.com/kjindev/react-moving-scroll)
 - [basic-loading](https://github.com/kjindev/basic-loading)
 
-<br />
