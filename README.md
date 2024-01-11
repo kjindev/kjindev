@@ -1,3 +1,5 @@
+<br />
+
 ## Frontend Stacks
 
 - **Languages**: JavaScript, TypeScript
@@ -26,3 +28,4 @@
 - [react-moving-scroll](https://github.com/kjindev/react-moving-scroll)
 - [basic-loading](https://github.com/kjindev/basic-loading)
 
+<br />
