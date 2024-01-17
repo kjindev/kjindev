@@ -24,6 +24,7 @@
 
 ## Activities: Open Source 
 
-- [react-moving-scroll](https://github.com/kjindev/react-moving-scroll)
-- [basic-loading](https://github.com/kjindev/basic-loading)
+- item-pagination
+- react-moving-scroll
+- basic-loading
 
