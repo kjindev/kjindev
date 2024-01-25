@@ -5,7 +5,7 @@
 - **Core**: React, Next.js, Turborepo
 - **Package Manager**: NPM, Yarn Berry, PNPM
 - **State Management**: Recoil, Zustand, Redux-Toolkit, React-Query
-- **Style**: Tailwind CSS, Emotion
+- **Style**: Tailwind CSS, Emotion, Chart.js
 - **Testing**: Jest, React Testing Library
 - **CI/CD**: Github Actions
 - **Design System**: Storybook
