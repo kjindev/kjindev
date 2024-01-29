@@ -3,7 +3,7 @@
 
 - **Languages**: JavaScript, TypeScript
 - **Core**: React, Next.js, Turborepo
-- **Package Manager**: NPM, Yarn Berry, PNPM
+- **Package Manager**: NPM, Yarn Berry (Zero Install), PNPM
 - **State Management**: Recoil, Zustand, Redux-Toolkit, React-Query
 - **Style**: Tailwind CSS, Emotion, Chart.js
 - **Testing**: Jest, React Testing Library
