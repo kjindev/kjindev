@@ -2,8 +2,8 @@
 ## Frontend Stacks
 
 - **Languages**: JavaScript, TypeScript
-- **Core**: React, Next.js, Turborepo
-- **Package Manager**: NPM, Yarn Berry (Zero Install), PNPM
+- **Core**: React, Next.js
+- **Package Manager**: NPM, Yarn Berry (Zero Install)
 - **State Management**: Recoil, Zustand, Redux-Toolkit, React-Query
 - **Style**: Tailwind CSS, Emotion, Chart.js
 - **Testing**: Jest, React Testing Library
